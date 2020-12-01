@@ -1,4 +1,4 @@
-# timeshift
+# timeshift for linux like Windows restore point
 # how to install
 <pre>
 sudo add-apt-repository -y ppa:teejee2008/timeshift
