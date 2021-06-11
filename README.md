@@ -1,4 +1,7 @@
 # timeshift for linux like Windows restore point
+
+In Windows 10, it is called 復元.
+
 # how to install
 <pre>
 sudo add-apt-repository -y ppa:teejee2008/timeshift
